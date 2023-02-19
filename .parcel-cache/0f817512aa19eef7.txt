@@ -1,9 +1,14 @@
-5392
-66/home/vlad/Source/portfolio_2.0/dist/portfolio_2.0.59712999.js.map1676783368736949018 0
-59/home/vlad/Source/portfolio_2.0/dist/index.34df27b5.css.map1676783368735949017 0
+5398
+58/home/vlad/Source/portfolio_2.0/dist/70637608.347d2a9c.png1676800291471558343 0
+66/home/vlad/Source/portfolio_2.0/dist/portfolio_2.0.59712999.js.map1676800291468558328 0
+59/home/vlad/Source/portfolio_2.0/dist/index.34df27b5.css.map1676800291468558328 0
+109/home/vlad/Source/portfolio_2.0/dist/My-Neighbor-Totoro-Scenery-hayao-miyazaki-41589065-1280-693.011e7601.jpg1676797142894250158 0
+52/home/vlad/Source/portfolio_2.0/src/img/70637608.png1676797930420935666 0
+103/home/vlad/Source/portfolio_2.0/src/img/My-Neighbor-Totoro-Scenery-hayao-miyazaki-41589065-1280-693.jpg1676773658607821674 0
+39/home/vlad/Source/portfolio_2.0/src/img1676797929761928767 1
 39/home/vlad/Source/portfolio_2.0/src/css1676782710769984543 1
-35/home/vlad/Source/portfolio_2.0/src1676782719113996581 1
-50/home/vlad/Source/portfolio_2.0/tailwind.config.js1676783201266692144 0
+35/home/vlad/Source/portfolio_2.0/src1676785420593385303 1
+50/home/vlad/Source/portfolio_2.0/tailwind.config.js1676797716250148236 0
 49/home/vlad/Source/portfolio_2.0/package-lock.json1676782598083821957 0
 64/home/vlad/Source/portfolio_2.0/node_modules/fast-glob/README.md1676782596915820272 0
 67/home/vlad/Source/portfolio_2.0/node_modules/fast-glob/package.json1676782596907820260 0
@@ -697,7 +702,7 @@
 100/home/vlad/Source/portfolio_2.0/node_modules/@jridgewell/trace-mapping/dist/types/binary-search.d.ts1676782499287679402 0
 90/home/vlad/Source/portfolio_2.0/node_modules/caniuse-lite/data/features/canvas-blending.js1676782502961684702 0
 91/home/vlad/Source/portfolio_2.0/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb.c1676782508068692069 0
-36/home/vlad/Source/portfolio_2.0/dist1676783368740949025 1
+36/home/vlad/Source/portfolio_2.0/dist1676800291490558438 1
 53/home/vlad/Source/portfolio_2.0/node_modules/msgpackr1676782512936699092 1
 82/home/vlad/Source/portfolio_2.0/node_modules/@parcel/workers/test/cpuCount.test.js1676782506818690266 0
 62/home/vlad/Source/portfolio_2.0/node_modules/dotenv-expand/lib1676782506961690473 1
@@ -1728,7 +1733,7 @@
 73/home/vlad/Source/portfolio_2.0/node_modules/@parcel/cache/lib/types.d.ts1676782508336692456 0
 67/home/vlad/Source/portfolio_2.0/node_modules/svgo/lib/svgo/tools.js1676782506941690444 0
 74/home/vlad/Source/portfolio_2.0/node_modules/@babel/highlight/lib/index.js1676782498787678680 0
-31/home/vlad/Source/portfolio_2.01676782934671307564 1
+31/home/vlad/Source/portfolio_2.01676783414982021349 1
 97/home/vlad/Source/portfolio_2.0/node_modules/@babel/highlight/node_modules/color-convert/route.js1676782517228705284 0
 88/home/vlad/Source/portfolio_2.0/node_modules/@babel/highlight/node_modules/color-convert1676782517204705249 1
 70/home/vlad/Source/portfolio_2.0/node_modules/dotenv/lib/env-options.js1676782504166686440 0
@@ -1816,7 +1821,7 @@
 65/home/vlad/Source/portfolio_2.0/node_modules/terser/lib/output.js1676782506166689326 0
 76/home/vlad/Source/portfolio_2.0/node_modules/@parcel/transformer-svg/LICENSE1676782508770693082 0
 51/home/vlad/Source/portfolio_2.0/node_modules/merge21676782596399819527 1
-48/home/vlad/Source/portfolio_2.0/src/css/main.css1676783226116727995 0
+48/home/vlad/Source/portfolio_2.0/src/css/main.css1676797078729641374 0
 80/home/vlad/Source/portfolio_2.0/node_modules/@jridgewell/sourcemap-codec/LICENSE1676782497637677021 0
 63/home/vlad/Source/portfolio_2.0/node_modules/@parcel/diagnostic1676782515840703281 1
 77/home/vlad/Source/portfolio_2.0/node_modules/@parcel/utils/src/escape-html.js1676782514493701338 0
@@ -1888,7 +1893,7 @@
 94/home/vlad/Source/portfolio_2.0/node_modules/@parcel/runtime-js/src/helpers/node/css-loader.js1676782512758698835 0
 91/home/vlad/Source/portfolio_2.0/node_modules/caniuse-lite/data/features/cookie-store-api.js1676782503266685142 0
 76/home/vlad/Source/portfolio_2.0/node_modules/postcss/lib/css-syntax-error.js1676782596549819744 0
-62/home/vlad/Source/portfolio_2.0/dist/portfolio_2.0.59712999.js1676783368692948950 0
+62/home/vlad/Source/portfolio_2.0/dist/portfolio_2.0.59712999.js1676800291452558248 0
 144/home/vlad/Source/portfolio_2.0/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-package-redirect-down/foo/bar/baz1676782506362689608 1
 98/home/vlad/Source/portfolio_2.0/node_modules/caniuse-lite/data/features/background-position-x-y.js1676782502192683593 0
 44/home/vlad/Source/portfolio_2.0/package.json1676782892031246049 0
@@ -2008,7 +2013,7 @@
 79/home/vlad/Source/portfolio_2.0/node_modules/cosmiconfig/dist/getDirectory.d.ts1676782501975683279 0
 62/home/vlad/Source/portfolio_2.0/node_modules/source-map-js/lib1676782596719819989 1
 83/home/vlad/Source/portfolio_2.0/node_modules/@parcel/package-manager/lib/types.d.ts1676782518891707683 0
-46/home/vlad/Source/portfolio_2.0/src/index.html1676783368217948207 0
+46/home/vlad/Source/portfolio_2.0/src/index.html1676800291089556428 0
 70/home/vlad/Source/portfolio_2.0/node_modules/@parcel/transformer-babel1676782511084696420 1
 81/home/vlad/Source/portfolio_2.0/node_modules/tailwindcss/scripts/release-notes.js1676782597424821006 0
 100/home/vlad/Source/portfolio_2.0/node_modules/@jridgewell/trace-mapping/dist/types/trace-mapping.d.ts1676782500003680435 0
@@ -2706,7 +2711,7 @@
 119/home/vlad/Source/portfolio_2.0/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.darwin-arm64.node1676782509158693642 0
 76/home/vlad/Source/portfolio_2.0/node_modules/caniuse-lite/data/regions/GH.js1676782504237686543 0
 126/home/vlad/Source/portfolio_2.0/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser/package.json1676782506346689585 0
-55/home/vlad/Source/portfolio_2.0/dist/index.34df27b5.css1676783368691948948 0
+55/home/vlad/Source/portfolio_2.0/dist/index.34df27b5.css1676800291452558248 0
 83/home/vlad/Source/portfolio_2.0/node_modules/caniuse-lite/data/features/auxclick.js1676782501955683251 0
 83/home/vlad/Source/portfolio_2.0/node_modules/tailwindcss/scripts/release-channel.js1676782597422821003 0
 72/home/vlad/Source/portfolio_2.0/node_modules/@parcel/watcher/src/Glob.hh1676782502387683874 0
@@ -2785,6 +2790,7 @@
 52/home/vlad/Source/portfolio_2.0/node_modules/reusify1676782596494819664 1
 90/home/vlad/Source/portfolio_2.0/node_modules/caniuse-lite/data/features/arrow-functions.js1676782501540682652 0
 65/home/vlad/Source/portfolio_2.0/node_modules/electron-to-chromium1676782499699679996 1
+42/home/vlad/Source/portfolio_2.0/.gitignore1676783432959049464 0
 64/home/vlad/Source/portfolio_2.0/node_modules/@parcel/events/test1676782517360705474 1
 74/home/vlad/Source/portfolio_2.0/node_modules/@jridgewell/set-array/LICENSE1676782498317678002 0
 62/home/vlad/Source/portfolio_2.0/node_modules/@parcel/cache/src1676782508331692448 1
@@ -3358,7 +3364,7 @@
 86/home/vlad/Source/portfolio_2.0/node_modules/caniuse-lite/data/features/sql-storage.js1676782504719687238 0
 71/home/vlad/Source/portfolio_2.0/node_modules/css-tree/lib/syntax/config1676782503644685687 1
 81/home/vlad/Source/portfolio_2.0/node_modules/caniuse-lite/data/features/srcset.js1676782504721687241 0
-47/home/vlad/Source/portfolio_2.0/dist/index.html1676783368691948948 0
+47/home/vlad/Source/portfolio_2.0/dist/index.html1676800291460558288 0
 76/home/vlad/Source/portfolio_2.0/node_modules/fast-glob/out/readers/stream.js1676782596877820217 0
 81/home/vlad/Source/portfolio_2.0/node_modules/caniuse-lite/data/features/stream.js1676782504728687251 0
 98/home/vlad/Source/portfolio_2.0/node_modules/caniuse-lite/data/features/stricttransportsecurity.js1676782504729687252 0

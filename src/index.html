@@ -1,13 +1,71 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Tourney:ital,wght@0,500;0,700;1,400&display=swap"
+      rel="stylesheet"
+    />
     <title>Document</title>
     <link rel="stylesheet" href="./css/main.css" />
   </head>
-  <body class="bg-black">
-    <header class="text-white">Test</header>
+  <body class="bg-basic">
+    <header
+      class="text-basic-red p-4 bg-darkest-red flex flex-col justify-between items-center rounded-b-xl h-screen w-1/6 fixed z-10"
+    >
+      <div class="bg-basic-red w-10 h-10 rounded-full"></div>
+      <nav>
+        <ul class="flex flex-col text-lg">
+          <li
+            class="cursor-pointer border border-basic px-10 py-2 shadow-lg hover:bg-basic"
+          >
+            <a>About Me</a>
+          </li>
+          <li
+            class="cursor-pointer border border-basic px-10 py-2 my-4 shadow-lg hover:bg-basic"
+          >
+            <a>My Work</a>
+          </li>
+          <li
+            class="cursor-pointer border border-basic px-10 py-2 shadow-lg hover:bg-basic"
+          >
+            <a>Contacts</a>
+          </li>
+        </ul>
+      </nav>
+      <div class="italic">GITHUB</div>
+    </header>
+    <main class="w-5/6 ml-auto">
+      <section class="p-6">
+        <div class="flex justify-around items-center">
+          <div class="text-darkest-red w-1/2">
+            <div class="mb-4">
+              <p class="text-6xl font-tourney">Hello, I'm Vlad</p>
+              <small class="text-lg">Frontend Developer</small>
+            </div>
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae
+              molestiae accusantium sapiente facere. Quod impedit obcaecati
+              soluta eum deserunt corrupti cumque repudiandae neque quas hic, ut
+              officiis asperiores fuga quibusdam!
+            </p>
+          </div>
+          <div class="rounded-l-full rotate-12 w-96">
+            <img src="./img/70637608.png" alt="photo of vlad" />
+          </div>
+        </div>
+        <div class="flex justify-center">
+          <button
+            class="bg-basic-red px-6 pt-4 flex justify-center items-center"
+          >
+            Show More
+          </button>
+        </div>
+      </section>
+    </main>
   </body>
 </html>
